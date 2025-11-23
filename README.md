@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A Aspiring AI Engineer From India</h3>
 
-- 🌱 I’m currently learning ***Machine Learning*** and ***Deep Learning*** techniques, moving across the path of ***Artificial Intelligence***
+-  I’m currently learning ***Machine Learning*** and ***Deep Learning*** techniques, moving across the path of ***Artificial Intelligence***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
